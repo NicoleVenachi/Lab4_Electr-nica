@@ -1,0 +1,20 @@
+{
+  "name": "lab4elect",
+  "version": "1.0.0",
+  "description": "Sistema metereológico Cauca",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "climatología"
+  ],
+  "author": "Nicole Venachi <ludwing@unicauca.edu.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
